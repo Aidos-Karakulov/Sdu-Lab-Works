@@ -1,0 +1,186 @@
+body {
+    background: url('../Pictures/Project-Image.webp');
+    background-position: center;
+    background-size: 100% cover;
+    height: 100%;
+    margin: 0;
+}
+
+.header {
+    height: 65px;
+    background-color: aliceblue;
+}
+
+.avatar-box {
+    height: 48px;
+    width: 48px;
+    border-radius: 100%;
+    margin-top: 0.9%;
+    margin-bottom: 1.03%;
+    margin-right: 3.53%;
+    float: right;
+}
+
+.img-cover {
+    height: 50px;
+    border-radius: 50%;
+    width: 50px;
+    object-fit: cover;
+}
+
+.font {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1em;
+    line-height: 15px;
+}
+
+.link {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.rights {
+    background-color: black;
+    position: relative;
+    height: 31px;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 8px;
+}
+
+.footer {
+    background: #212121;
+    height: 37px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 21px;
+    border: 0;
+    margin-top: 13.5%;
+    display: relative;
+}
+
+.instagram {
+    background: linear-gradient(0deg, rgba(169, 169, 169, 0.34), rgba(169, 169, 169, 0.34));
+    box-shadow: 0px 0px 4px 5px #000000;
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+    float: right;
+    margin-right: -3.5%;
+    position: relative;
+    margin-top: 31.5%;
+}
+
+.instagram-img {
+    object-fit: cover;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.back {
+    box-sizing: border-box;
+    background: rgba(165, 158, 158, 0.3);
+    border: 1px solid #000000;
+    height: 353px;
+    width: 876px;
+    position: relative;
+    top: 77px;
+    left: 26px;
+}
+
+.avatar-2 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 132px;
+    height: 149px;
+    left: 12px;
+    top: 12px;
+    border: 1px solid #000000;
+}
+
+.p {
+    padding: 4% 0% 0% 20%;
+    font-size: 1.4em;
+}
+
+.dev {
+    padding: 0% 0% 0% 21%;
+    font-size: 13px;
+}
+
+.text-3 {
+    padding: 11% 0% 0% 4%;
+    font-size: 1em;
+}
+
+.text-span {
+    top: 15px;
+}
+
+.phone {
+    padding: 3% 0% 0% 4%;
+    font-size: 1em;
+}
+
+.number {
+    color: #FFBBBB;
+}
+
+.avatar-2-img {
+    position: absolute;
+    width: 128px;
+    height: 145px;
+    object-position: center;
+    background: url('../Pictures/rick-astley-lol.gif');
+    border-radius: 3px;
+    background-size: cover;
+}
+
+.header-text,
+.schedule {
+    font-size: 2em;
+    color: #fff;
+}
+
+.header-text {
+    padding: 2% 0% 0% 5%;
+    font-style: normal;
+}
+
+.schedule {
+    padding: 3% 0% 0% 45%;
+    font-weight: 700;
+}
+
+.td-1 {
+    background: #727272;
+}
+
+table {
+    background-color: white;
+    margin-left: 30%;
+    width: 718px;
+    height: 467px;
+    border-collapse: collapse;
+}
+
+td,
+tr {
+    padding: 1%;
+}
+
+.footer-box {
+    background: #212121;
+    height: 37px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 21px;
+    border: 0;
+    margin-top: 0.5%;
+    display: relative;
+}
