@@ -1,0 +1,62 @@
+.red-text {
+    color: rgb(215, 31, 31)
+}
+
+.rgba-text {
+    opacity: rgba(255, 0, 0, .3);
+}
+
+.red-rgb {
+    color: #ff0000;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.padding-border {
+    border: 1px solid rgb(15, 15, 13);
+    background-color: yellow;
+    padding: 10px;
+}
+
+.bd31 {
+    margin-top: 5px;
+    border-top: dotted 3px;
+    border-bottom: 4px dashed Red;
+}
+
+.bdr {
+    margin-top: 3px;
+    border: 3px solid;
+    padding: 10px;
+    background-color: red;
+    border-radius: 7px;
+}
+
+.weird-thing {
+    border: 3px solid;
+    text-align: center;
+    padding: 10px;
+    border-radius: 50%;
+    margin-top: 5px;
+    background-color: yellow;
+}
+
+.circule {
+    height: 150px;
+    border: 1px solid;
+    width: 150px;
+    border-radius: 50%;
+    background-color: rgb(171, 48, 48);
+    padding: 40px;
+}
+
+.inline {
+    color: aqua;
+    text-decoration: inline;
+}
+
+.fish {
+    color: rgb(87, 193, 228)f;
+}
